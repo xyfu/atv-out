@@ -22,17 +22,19 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.176EF4E6-7368-478E-8261-369B81A79682</string>
+			<string>com.apple.wifi.managed.7E8FB87F-2B70-42AD-AADF-D48E3E4D5958</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>176EF4E6-7368-478E-8261-369B81A79682</string>
+			<string>7E8FB87F-2B70-42AD-AADF-D48E3E4D5958</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/xyfu/atv-out/master/p.pac</string>
+			<key>ProxyServer</key>
+			<string>10.0.0.12</string>
+			<key>ProxyServerPort</key>
+			<integer>1080</integer>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>Manual</string>
 			<key>SSID_STR</key>
 			<string>Ch</string>
 		</dict>
@@ -46,7 +48,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>EA863662-0789-40B6-B1C5-AEAA0F7046A9</string>
+	<string>F06AB0D0-3027-44C8-AF7B-3B9AF444F0D6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
