@@ -5,30 +5,40 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>1997061110</string>
 			<key>PayloadDescription</key>
-			<string>Global HTTP Proxy</string>
+			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>Global HTTP Proxy</string>
+			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.proxy.http.global.69E7D702-4DFE-4AB2-B367-8AB56B1ED818</string>
+			<string>com.apple.wifi.managed.176EF4E6-7368-478E-8261-369B81A79682</string>
 			<key>PayloadType</key>
-			<string>com.apple.proxy.http.global</string>
+			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>69E7D702-4DFE-4AB2-B367-8AB56B1ED818</string>
+			<string>176EF4E6-7368-478E-8261-369B81A79682</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-			<key>ProxyPACFallbackAllowed</key>
-			<true/>
 			<key>ProxyPACURL</key>
 			<string>https://raw.githubusercontent.com/xyfu/atv-out/master/p.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
+			<key>SSID_STR</key>
+			<string>Ch</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>Untitled</string>
+	<string>atv-proxy</string>
 	<key>PayloadIdentifier</key>
 	<string>xigua-mac.10CC722F-0F7C-40E2-A3C3-808ADCD81B41</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -36,7 +46,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>30316D86-03D4-4D57-928B-1B2CACA4176E</string>
+	<string>EA863662-0789-40B6-B1C5-AEAA0F7046A9</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
